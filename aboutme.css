@@ -1,0 +1,60 @@
+h1{
+    font-size:50px;
+    text-align: center;
+    font-family: "Pt Sans Narrow", Roboto, serif;
+    color: DarkOrange;
+}
+h5{
+    text-align: center;
+    color: #FF4500;
+    background-color: rgba(0, 0, 255, 0.05);
+}
+body{
+    background-color: SkyBlue;
+}
+/*
+img {
+    padding: 5px;
+    width: 150px;
+
+}
+ */   
+ol{
+    font-size: 30px;
+    text-decoration: none;
+}
+li{
+    font-size: 15px;
+    text-decoration: none;
+}
+ul{
+    font-size: 30px;
+}
+/*
+#IT{
+    font-size: 30px;
+    text-decoration: underline;
+}
+#NBP{
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+*/
+ul.a{
+    list-style-type: circle;
+}
+/*
+#JT{
+    font-size: 30px;
+    text-align: left;
+}
+#GRLP{
+    width: 50px;
+    height: 50px;
+}
+*/
+p{
+    font-family: Arvo, serif;
+    line-height: 30px;
+}
