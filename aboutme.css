@@ -1,0 +1,103 @@
+h1{
+    font-size:50px;
+    text-align: center;
+    font-family: "Pt Sans Narrow", Roboto, serif;
+    color: DarkOrange;
+}
+h5{
+    text-align: center;
+    color: #FF4500;
+    background-color: rgba(0, 0, 255, 0.05););
+}
+body{
+    background-color: #87CEFA;
+}
+/*
+img {
+    padding: 5px;
+    width: 150px;
+
+
+}
+ */   
+ol{
+    font-size: 30px;
+    text-decoration: none;
+}
+li{
+    font-size: 15px;
+    text-decoration: none;
+    list-style-type: none;
+}
+ul{
+    font-size: 30px;
+}
+
+#IT{
+    font-size: 30px;
+    text-decoration: underline;
+}
+img.NBP{
+    display: block;
+    margin: auto;
+    width: 40%;
+    border-radius:45%;
+}
+ul.a{
+    list-style-type: none;
+}
+/*
+#JT{
+    font-size: 30px;
+    text-align: left;
+}
+#GRLP{
+    width: 50px;
+    height: 50px;
+}
+*/
+p{
+    font-family: Arvo, serif;
+    line-height: 30px;
+}
+.Header{
+    border: hidden;
+    border-style: hidden;
+    background-color: rgba(0, 0, 255, 0.05););
+    border-width: 3px;
+    margin:0;
+    padding: 0, 30px, 30px,30px;
+}
+
+.Information{
+    margin:15%;
+}
+.Class{
+    margin:15%;   
+}
+.List{
+    margin:15%, 15%;
+}
+div{
+     margin-left:15%;
+    margin-right: 15%;  
+}
+.LT{
+    font-size: 30px;
+    text-decoration: underline;
+    font-weight: bold;
+    list-style-type: none;
+}
+.FP{
+    text-decoration: none;
+    list-style-type: none;
+}
+.GRP{
+    width: 50px;
+}
+li.a{
+    list-style-type: none;
+}
+.list:hover{
+ font-size: 30px;
+}
